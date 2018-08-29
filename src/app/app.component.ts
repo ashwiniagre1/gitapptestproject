@@ -6,6 +6,7 @@ import {Router} from '@angular/router';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
+  let testpullresponse:any;
  constructor(private _router: Router){
 
  }
